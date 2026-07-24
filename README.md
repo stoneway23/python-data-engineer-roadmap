@@ -11,12 +11,11 @@ Cada módulo contiene: ejercicios guiados, ejercicios resueltos por mi cuenta, m
 | Módulo | Tema | Estado | Dominio (%) | Fecha |
 |---|---|---|---|---|
 | 0 | Mentalidad del programador | ⏳ Pendiente | - | - |
-| 1 | Variables, tipos de datos, entrada/salida | ⏳ Pendiente | - | - |
-| 2 | Condicionales | ⏳ Pendiente | - | - |
+| 1 | Variables, tipos de datos, entrada/salida | ✅ Completado | 85% | 23/07 || 2 | Condicionales | ⏳ Pendiente | - | - |
 | 3 | Bucles (while, for, range) | ⏳ Pendiente | - | - |
 | 4 | Funciones | ⏳ Pendiente | - | - |
 | 5 | Listas, tuplas, diccionarios, conjuntos | ⏳ Pendiente | - | - |
-| 6 | Algoritmos básicos | ⏳ Pendiente | - | - |
+| 6 | Algoritmos básicos | ⏳ Pendiente | - | - |a
 | 7 | Resolución de problemas (50 ejercicios) | ⏳ Pendiente | - | - |
 | 8 | Proyecto integrador | ⏳ Pendiente | - | - |
 
